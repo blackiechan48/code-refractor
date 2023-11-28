@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# 01 HTML CSS Git: Code Refactor Week 1 challenge 
 
 ## Your Task
 
