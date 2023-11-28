@@ -1,6 +1,6 @@
 # Code refractory
 
-## Decriptio
+## Decription
 The challenge was to tidy up the HTML and CSS 
 I changed the DIvs to the correct sematics 
 I added discriptive texts to the images to increase user adaptability and optimise the seo 
