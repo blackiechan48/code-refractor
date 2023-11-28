@@ -94,7 +94,7 @@ p {
 
 
 
-
+/* Grouped the classes with the same benefits together */
 .benefit-lead h3,.benefit-brand h3,.benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -103,6 +103,7 @@ p {
 
 
 
+/* Grouped the classes with the same benefits together */
 
 .benefit-lead img,.benefit-brand img,.benefit-cost img {
     display: block;
@@ -113,6 +114,7 @@ p {
 
 
 
+/* Grouped the classes with the same benefits together */
 
 .search-engine-optimization,.online-reputation-management,.social-media-marketing {
     margin-bottom: 20px;
